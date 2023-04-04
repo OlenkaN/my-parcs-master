@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="out">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my-parcs-master/out/parcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-parcs-master/out/PrimeSum.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-parcs-master/out/Bluck.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-parcs-master/out/DFS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
